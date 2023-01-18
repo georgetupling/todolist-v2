@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/99026bf5-b1f2-4e15-9337-da0e0f49753b/AppServices/subscriptions/99026bf5-b1f2-4e15-9337-da0e0f49753b/resourceGroups/web-development-course/providers/Microsoft.Web/sites/todolist-v2",
+    "appService.deploySubpath": "."
+}
